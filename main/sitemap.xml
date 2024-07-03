@@ -461,6 +461,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://autowarefoundation.github.io/autoware.universe/main/localization/autoware_stop_filter/</loc>
+         <lastmod>2024-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://autowarefoundation.github.io/autoware.universe/main/localization/ekf_localizer/</loc>
          <lastmod>2024-07-03</lastmod>
          <changefreq>daily</changefreq>
@@ -512,11 +517,6 @@
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.universe/main/localization/pose_instability_detector/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://autowarefoundation.github.io/autoware.universe/main/localization/stop_filter/</loc>
          <lastmod>2024-07-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
