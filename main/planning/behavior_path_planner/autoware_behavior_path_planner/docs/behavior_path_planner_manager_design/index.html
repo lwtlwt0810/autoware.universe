@@ -13290,7 +13290,6 @@
 <span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="n">enable_simultaneous_execution_as_approved_module</span><span class="p">{</span><span class="nb">false</span><span class="p">};</span>
 <span class="w">  </span><span class="kt">bool</span><span class="w"> </span><span class="n">enable_simultaneous_execution_as_candidate_module</span><span class="p">{</span><span class="nb">false</span><span class="p">};</span>
 <span class="w">  </span><span class="kt">uint8_t</span><span class="w"> </span><span class="n">priority</span><span class="p">{</span><span class="mi">0</span><span class="p">};</span>
-<span class="w">  </span><span class="kt">uint8_t</span><span class="w"> </span><span class="n">max_module_size</span><span class="p">{</span><span class="mi">0</span><span class="p">};</span>
 <span class="p">};</span>
 </code></pre></div>
 <p>Code is <a href="https://github.com/autowarefoundation/autoware.universe/blob/b1734916e3efd9786507a271e0fe829dd37476c8/planning/behavior_path_planner/include/behavior_path_planner/parameters.hpp#L23-L30">here</a></p>
@@ -13327,11 +13326,6 @@
 <td align="left"><code>priority</code></td>
 <td align="left">uint8_t</td>
 <td align="left">the manager decides execution priority based on this parameter. The smaller the number is, the higher the priority is.</td>
-</tr>
-<tr>
-<td align="left"><code>max_module_size</code></td>
-<td align="left">uint8_t</td>
-<td align="left">the sub-manager can run some modules simultaneously. this parameter set the maximum number of the launched modules.</td>
 </tr>
 </tbody>
 </table>
