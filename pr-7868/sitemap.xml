@@ -461,6 +461,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/localization/autoware_stop_filter/</loc>
+         <lastmod>2024-07-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/localization/ekf_localizer/</loc>
          <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
@@ -512,11 +517,6 @@
     </url>
     <url>
          <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/localization/pose_instability_detector/</loc>
-         <lastmod>2024-07-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/localization/stop_filter/</loc>
          <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -921,6 +921,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/planning/autoware_obstacle_stop_planner/</loc>
+         <lastmod>2024-07-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/planning/autoware_path_optimizer/</loc>
          <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
@@ -1186,11 +1191,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/planning/obstacle_stop_planner/</loc>
-         <lastmod>2024-07-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/planning/sampling_based_planner/autoware_bezier_sampler/</loc>
          <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
@@ -1231,7 +1231,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/sensing/livox/livox_tag_filter/</loc>
+         <loc>https://autowarefoundation.github.io/autoware.universe/pr-7868/sensing/livox/autoware_livox_tag_filter/</loc>
          <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
